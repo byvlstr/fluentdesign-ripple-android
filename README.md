@@ -3,6 +3,7 @@
 A Ripple effect for Android inspired by Microsoft's Fluent Design System 
 
 * **Beautiful Ripple:** An elegant and simple Ripple Effect as a nice alternative to the standard selectableItemBackground in Android
+* **Used in:** My very own [Fluent App Bar](https://github.com/byvlstr/fluentAppBar) library available on Github
 * **Inspired by:** Microsoft's [Fluent Design System](https://fluent.microsoft.com/), especially "Light".
 
 <img src="https://github.com/byvlstr/fluentdesign-ripple-android/blob/master/fluentdesignsystem_android_ripple.gif" width=350>
