@@ -22,9 +22,15 @@ This Ripple resource is currently supported by devices with API > 21. See https:
 
 - Initial version
 
+# Used by/in
+
+- [Fluent App Bar](https://github.com/byvlstr/fluentAppBar)
+
+Feel free to contact me to have your project and name stated here
+
 # Credits
 
-Creator: Valentin Lungenstrass [http://www.vlstr.com/](http://vlstr.com/)
+Creator: Valentin Lungenstrass [http://www.vlstr.com/](http://vlstr.com/) | contact [at] vlstr [dot] com
 
 <a href="https://twitter.com/byvlstr">
   <img alt="Follow me on Twitter"
